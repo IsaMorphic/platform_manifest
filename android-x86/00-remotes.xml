@@ -15,5 +15,6 @@
   <remote name="BlissOS"
           fetch="https://github.com/BlissOS"
           revision="voyager-x86" />
+  <remote name="isamorphic" fetch="https://github.com/IsaMorphic" />
 
 </manifest>
