@@ -19,7 +19,7 @@
   <project path="vendor/intel/hardware/interfaces" name="vendor_intel_hardware_interfaces" remote="ag-github" revision="14-x86" sync-s="true" />
 
   <!-- Firmware -->
-  <project path="device/generic/firmware" name="device_generic_firmware" remote="ag-github" revision="main" />
+  <project path="device/generic/firmware" name="device_generic_firmware" remote="ag-github" revision="bpgen" />
   <project path="vendor/intel/proprietary/sof-bin" name="vendor_intel_proprietary_sof-bin" remote="ag-github" revision="202403" />
   <project path="vendor/silead/proprietary/firmware" name="vendor_silead_proprietary_firmware" remote="ag-github" revision="master" />
 
